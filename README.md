@@ -1,0 +1,2 @@
+# -bashrc
+my vim settings
